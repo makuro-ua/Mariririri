@@ -1,8 +1,8 @@
 **Purposive Communication || 1**
 
-	**Verbal** - Words
+**Verbal** - Words
 
-	**Non-Verbal- G**estures, face, action
+**Non-Verbal- G**estures, face, action
 
 
 
@@ -30,7 +30,7 @@
 
 &nbsp;		- **Chronemics** - The use of time
 
-		**- Kinesics -** The use of body movements and gestures
+**- Kinesics -** The use of body movements and gestures
 
 &nbsp;		**- Proxemics -** The use of space
 
@@ -54,21 +54,21 @@
 
 **Elements of the Communication Process:**
 
-	**1. Source/ Sender**
+**1. Source/ Sender**
 
-		The one who encodes a message or information to the receiver who accepts it. You, as a sender, need to be clear about the message you want to convey. In which, you must know what exactly it is that you want to communicate. In summary, you have to know what you what to communicate and the way you want to communicate it.
+The one who encodes a message or information to the receiver who accepts it. You, as a sender, need to be clear about the message you want to convey. In which, you must know what exactly it is that you want to communicate. In summary, you have to know what you what to communicate and the way you want to communicate it.
 
 &nbsp;	**2. Message** 
 
-		The message is simply the information that you want to communicate.
+The message is simply the information that you want to communicate.
 
 &nbsp;	**3. Channel**
 
 &nbsp;		The method that you use to convey your message.
 
-	**4. Decoding**
+**4. Decoding**
 
-		Decoding occurs when you receive the message that has been sent, in order to give the speaker a feedback.
+Decoding occurs when you receive the message that has been sent, in order to give the speaker a feedback.
 
 &nbsp;	**5. Receiver**
 
@@ -78,7 +78,7 @@
 
 &nbsp;		Your decoder is expected to give a response on how they have understood the information sent either through verbal or non-verbal communication. It is essential to pay attention to this feedback in order to assess whether the message has been clearly transferred.
 
-	**7. Noise**
+**7. Noise**
 
 &nbsp;		The barrier that interferes in the communication process. There are two kinds of noise;
 
@@ -88,7 +88,7 @@
 
 &nbsp;	8. **Context** 
 
-		Refers to the situation or setting in which communication takes place. There are two types of contexts;
+Refers to the situation or setting in which communication takes place. There are two types of contexts;
 
 &nbsp;			- **Physical Context -** Refers to the setting which includes location, time, weather or noise level.
 
@@ -98,7 +98,7 @@
 
 **Models of Communication**
 
-	**Conceptual Models -** Are used to explain the human communication process with the basic concept of sending and receiving messages. 
+**Conceptual Models -** Are used to explain the human communication process with the basic concept of sending and receiving messages. 
 
 &nbsp;	Communication Models - Are frameworks that explain how communication works.
 
